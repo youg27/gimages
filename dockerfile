@@ -1,0 +1,2 @@
+From gcr.io/kctf-docker/kctf-operator@sha256:d9cebd766fbdbe898add623a2b3dc1c2574096d64d3b8d88bfd04a75378aea63
+MAINTAINER liyi
